@@ -23,8 +23,8 @@
     <meta property="og:image:width" content="">
     <meta property="og:image:height" content="">
     <!-- Template Basic Images Start -->
-    <link rel="icon" href="img/favicon/favicon.ico">
-    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon-180x180.png">
+    <link rel="icon" href="/img/favicon/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon-180x180.png">
     <!-- Template Basic Images End -->
     
     <!-- Custom Browsers Color Start -->
